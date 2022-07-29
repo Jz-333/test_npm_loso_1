@@ -1,0 +1,19 @@
+{
+  "name": "test_npm_loso_1",
+  "version": "1.0.0",
+  "description": "上传属于自己的npm包",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jz-333/test_npm_loso_1.git"
+  },
+  "author": "zoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jz-333/test_npm_loso_1/issues"
+  },
+  "homepage": "https://github.com/Jz-333/test_npm_loso_1#readme"
+}
